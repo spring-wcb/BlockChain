@@ -19,5 +19,5 @@ A full-stack blockchain application with ERC20 token implementation.
 
 - **spring-boot-web3j**: 后端服务源码
 - **my-first-dapp**: 前端源码
-- **Demo video**: 演示视频
+- **Demo video**: 演示视频 
 - **MyERC20.sol**: 合约源码
