@@ -6,8 +6,8 @@ A full-stack blockchain application with ERC20 token implementation.
 
 - **spring-boot-web3j**: Backend service source code
 - **my-first-dapp**: Frontend source code
-- **MyERC20.sol**: Smart contract source code
 - **Demo video**: Project demonstration
+- **MyERC20.sol**: Smart contract source code
 
 
 
@@ -19,5 +19,5 @@ A full-stack blockchain application with ERC20 token implementation.
 
 - **spring-boot-web3j**: 后端服务源码
 - **my-first-dapp**: 前端源码
-- **MyERC20.sol**: 合约源码
 - **Demo video**: 演示视频
+- **MyERC20.sol**: 合约源码
